@@ -87,21 +87,3 @@ The data was **cleaned and prepared in Microsoft Excel**, analyzed using **SQL**
 **Challenge:** Data formatting and data type issues during SQL ingestion  
 **Solution:** Cleaned and standardized the dataset in Excel before analysis  
 
----
-
-## 📁 Repository Structure
-
-```text
-sales-profit-analysis/
-│
-├── data/
-│   └── superstore_project.csv
-│
-├── sql/
-│   └── sales_profit_analysis_queries.sql
-│
-├── powerbi/
-│   └── Sales_and_Profit_Performance_Dashboard.pbix
-│
-└── README.md
-
