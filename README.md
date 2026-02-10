@@ -90,6 +90,8 @@ The data was **cleaned and prepared in Microsoft Excel**, analyzed using **SQL**
 ---
 
 ## 📁 Repository Structure
+
+```text
 sales-profit-analysis/
 │
 ├── data/
@@ -102,5 +104,4 @@ sales-profit-analysis/
 │   └── Sales_and_Profit_Performance_Dashboard.pbix
 │
 └── README.md
-
 
